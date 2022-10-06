@@ -1,0 +1,294 @@
+/* HEADER */
+
+#Header
+{
+  background-color: #2C3333;
+}
+
+.logo
+{
+  width: 20%;
+  border-radius: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.navbar-brand
+{
+  position: relative;
+  top: 0;
+  margin-bottom: 25px;
+}
+.navbar-toggler
+{
+  position: absolute;
+  top: 35px;
+  right: 30px;
+}
+
+.nav-item
+{
+  /* padding-left: 25px;
+  padding-right: 25px;
+  width: 100px; */
+  text-align: center;
+}
+.nav-link
+{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.container-fluid
+{
+  padding: 2% 20% 0;
+}
+.header-title
+{
+  font-family: "Ubuntu";
+  font-weight: bold;
+  color: white;
+  padding-top: 7%;
+
+  font-size: 3rem;
+}
+.header-subtitle
+{
+  color: #8f8f8f;
+  font-family: "Ubuntu";
+  font-size:1.5rem;
+  margin-top: 0;
+}
+
+.header-img
+{
+  width: 80%;
+  margin-left: 80px;
+  box-shadow: 0 1px 55px 5px #000000;
+  text-align: center;
+}
+
+
+/* SECOND-SECTION */
+
+
+#second
+{
+  background-color: white;
+
+}
+
+.second-container
+{
+  padding-top: 5%;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.second-title
+{
+  padding-top: 2%;
+  color: black;
+  font-family: "Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+  text-align: left;
+
+}
+.second-subtitle
+{
+  color: #8f8f8f;
+  font-family: "Ubuntu";
+  font-size:1.2rem;
+  text-align: left;
+}
+.second-image
+{
+  width: 210px;
+  height: 297.5;
+  padding-top: 15%;
+}
+.second-grid-2
+{
+  padding-left: 0;
+}
+.second-paragraph
+{
+  text-align: left;
+
+}
+
+/* Testimonials */
+
+.testimonial-container
+{
+  text-align: center;
+  background-color: #2C3333;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.testimonial-h1
+{
+  color: white;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.testimonial-p
+{
+  color: #CFD2CF;
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+}
+.section-3-h2
+{
+  padding-top: 5%;
+  color: #CFD2CF;
+}
+.section-3-em
+{
+  padding-top: 5%;
+  color: #CFD2CF;
+}
+.carousel-item
+{
+  padding: 7% 15% 7% 15%;
+}
+.carousel-control-prev-icon
+{
+  margin-right: 60;
+}
+.carousel-control-next-icon
+{
+  margin-left: 60;
+}
+.form-control
+{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.contact-container
+{
+  text-align: center;
+  padding-bottom: 7%;
+}
+.second-grid-1
+{
+  padding-right: 30px;
+  padding-top: 78.525px;
+
+}
+.second-grid-2
+{
+  padding-right: 30px;
+  padding-top: 78.525px;
+  padding-bottom: 7%;
+}
+
+.contact-mobile
+{
+  padding-top: 5%;
+  padding-bottom: 5%
+}
+.logo-footer
+{
+  border-radius: 100%;
+  width: 50%;
+  margin-top: 75.525px;
+  margin-bottom: 50px;
+}
+.second-grid-3
+{
+  padding-right: 30px;
+  padding-top: 3%;
+  padding-bottom: 7%;
+}
+.contact-grid-title
+{
+  font-family: "Ubuntu";
+  font-weight: 500;
+}
+
+@media (max-width: 1004px )
+{
+
+  .title
+  {
+    text-align: center;
+  }
+  #title
+  {
+    text-align: center;
+  }
+
+  .col-lg-6
+  {
+    color: #8f8f8f;
+    font-family: "Ubuntu";
+    font-size:1.5rem;
+    margin-top: 0;
+    text-align: center;
+  }
+  .second-grid-1
+  {
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+  }
+  .second-grid-2
+  {
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+  }
+
+
+}
+
+/* PRICING */
+
+
+#pricing
+{
+  background-color: #2C3333;
+  padding: 7% 3% 7%;
+  text-align: center;
+}
+
+.pricing-subtitle{
+  font-size: 1.1rem;
+  color: white;
+}
+.pricing-title{
+  font-size: 2.5rem;
+  color: white;
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+.cols{
+  margin-left: 5%;
+  margin-right:5%;
+}
+
+/* footer */
+#footer
+{
+  text-align: center;
+  padding: 5% 15% 5% 15%;
+}
+
+
+.footer-icons
+{
+  color: black;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-bottom: 20px;
+}
+
+.footer-span
+{
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
